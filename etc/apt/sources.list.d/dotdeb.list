@@ -1,0 +1,2 @@
+deb http://dotdeb.netmirror.org/ stable all
+deb-src http://dotdeb.netmirror.org/ stable all
